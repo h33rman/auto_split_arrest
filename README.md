@@ -24,14 +24,14 @@ To install the required Python packages, run the following command:
 
 Clone the Repository:
 
-`git clone https://github.com/your-username/arret-jurisprudence-pdf-splitter.git`
+`git clone https://github.com/h33rman/auto_split_arrest.git`
 
-`cd arret-jurisprudence-pdf-splitter`
+`cd auto_split_arrest`
 
-- Place Your PDF File
+- Put the path to your PDF file in the pdf_path variable in the jupyter notebook.
 
-- Place your large PDF file (e.g., LivreRecueil_2009_all.pdf) in the directory.
+- run split_pdf_by_arret(pdf_path) function.
 
-- Run the Script
+- Naviage to the output_pdf folder to see the split files.
 
 **Replace the pdf_path with the path to your PDF file and run the script:**
