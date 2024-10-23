@@ -1,7 +1,7 @@
 # PDF Splitter for "Arrêt Jurisprudence"
-## This project provides a Python script that splits a large PDF file containing multiple legal rulings ("Arrêts Jurisprudence") into individual PDF files. 
+This project provides a Python script that splits a large PDF file containing multiple legal rulings ("Arrêts Jurisprudence") into individual PDF files. 
 
-### Each output file corresponds to one ruling, and the file names are based on the ruling number found in the document.
+Each output file corresponds to one ruling, and the file names are based on the ruling number found in the document.
 
 ## Features
 Automatic Detection: Detects the start of each new "Arrêt" using the pattern Arrêt n°.
