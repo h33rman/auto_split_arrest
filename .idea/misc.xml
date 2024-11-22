@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="files_manager" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="files_manager" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="file_manager" project-jdk-type="Python SDK" />
 </project>
